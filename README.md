@@ -11,9 +11,6 @@ Features 🚀 ~
 - Shipping Cost Calculation: Integrated with RajaOngkir to determine shipping costs based on location.
 - Comments and Ratings: Users can leave comments and rate products.
 
-Template ❤ ~
-
-1. https://pixelrocket.store/ (Home Page)
-2. https://startbootstrap.com/theme/sb-admin-2 (Admin Page)
+<br>
 
 ![img-atlas](https://github.com/titosunu/laravel-commerce/blob/main/public/img/img.png)
