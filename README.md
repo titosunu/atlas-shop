@@ -1,6 +1,6 @@
 # Atlas Shop, Laravel E-commerce
 
-Atlas Thrift Shop is a web-based e-commerce application built using Laravel. This application is designed to facilitate the sale of thrift items with features that ease transactions and shipping. link https://atlasthriftshop.com/ 
+Atlas Thrift Shop is a web-based e-commerce application built using Laravel. This application is designed to facilitate the sale of thrift items with features that ease transactions and shipping.
 
 Features 🚀 ~
 - User Authentication: Registration, login, and user management.
