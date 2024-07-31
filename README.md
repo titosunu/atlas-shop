@@ -54,7 +54,7 @@ Features
     <img src="https://www.svgrepo.com/show/303656/php-logo.svg" alt="go" width="40" height="40"/> 
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJIZSV6WytXnbqL37Z7iDhoi8kwsxPd28QQw&s" alt="go" width="40" height="40"/> 
+    <img src="https://pbs.twimg.com/profile_images/1783560208704241664/8skfbzIV_400x400.jpg" alt="go" width="40" height="40"/> 
   </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
     <img src="https://d3mxt5v3yxgcsr.cloudfront.net/courses/17101/course_17101_image.jpg" alt="go" width="40" height="40"/> 
