@@ -62,6 +62,9 @@ Features
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
     <img src="https://e7.pngegg.com/pngimages/87/538/png-clipart-javascript-scalable-graphics-logo-encapsulated-postscript-javascript-icon-text-logo.png" alt="go" width="40" height="40"/> 
   </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png" alt="go" width="40" height="40"/> 
+  </a>
 </p>
 
 <br>
