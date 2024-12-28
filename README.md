@@ -14,7 +14,7 @@ Features
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/atlas-shop.git
+   git clone https://github.com/titosunu/atlas-shop.git
    cd atlas-shop
    ```
 
